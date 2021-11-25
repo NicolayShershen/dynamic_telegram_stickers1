@@ -1,0 +1,57 @@
+{
+	"user_id": "340761712",
+	"stickerset_id": "daocrypto",
+	"stickerset_title": "daocvpack",
+	"bot_token": "2101596152:AAGtBT56-1bP68rKqql8K6Bw_20yp0ezQpU",
+	"blacklist": ["usdt", "usdc", "busd", "dai", "ust", "tusd", "mim"],
+	"amount_of_stickers": 30,
+	"sticker_template": "template.png",
+	"arrow_red": "arrow-red.png",
+	"arrow_green": "arrow-green.png",
+	"update_time": 5,
+	"default_font": "opensans.ttf",
+	"default_font_size": 16,
+	"default_color": [0,0,0,255],
+	"sticker_settings": {
+		"name": {
+			"enabled": false,
+			"font_size": 64,
+			"coordinates":[100,100]
+		},
+		"rate": {
+			"enabled": true,
+			"coordinates":[256,281],
+			"font_size":60,
+			"color": [255,255,255,127]
+		},
+		"price": {
+			"enabled": true,
+			"font_size":96,
+			"coordinates":[256,205],
+			"color": [255,255,255,255]
+		},
+		"previous_price": {
+			"enabled": true,
+			"font_size":30,
+			"centered": false,
+			"coordinates":[26,451],
+			"color": [255,255,255,255]
+		},
+		"market_cap": {
+			"enabled": false,
+			"coordinates":[16,16]
+		},
+		"volume_24h": {
+			"enabled": false,
+			"coordinates":[16,16]
+		},
+		"change_24h": {
+			"enabled": false,
+			"coordinates":[16,16]
+		},
+		"coin_icon": {
+			"enabled": true,
+			"coordinates":[256, 103]
+		}
+	}
+}
